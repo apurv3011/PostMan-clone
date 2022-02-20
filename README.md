@@ -2,6 +2,8 @@
 postman clone for GET POST PUT request
 
 #Running the project on Local
-npm install
-npm start
+
+
+- npm install
+- npm start
 
